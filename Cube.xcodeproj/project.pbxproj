@@ -260,6 +260,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Cube/Cube-Prefix.pch";
 				INFOPLIST_FILE = "Cube/Cube-Info.plist";
+				PRODUCT_BUNDLE_IDENTIFIER = com.shizhi.Cube;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -272,6 +273,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Cube/Cube-Prefix.pch";
 				INFOPLIST_FILE = "Cube/Cube-Info.plist";
+				PRODUCT_BUNDLE_IDENTIFIER = com.shizhi.Cube;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
